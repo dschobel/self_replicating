@@ -1,0 +1,3 @@
+Precisely stated, the problem is to write a source program that,
+when compiled and executed, will produce as output an exact copy of
+its source.
